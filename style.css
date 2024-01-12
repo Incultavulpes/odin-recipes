@@ -1,0 +1,45 @@
+/* This is the style for the website */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* This is the style for the index.html web page */
+ul .home.child1 {
+    color: blue;
+}
+
+ul .home.child2 {
+    color: green;
+}
+
+ul .home.child3 {
+    color: burlywood;
+}
+
+ul .home.child4 {
+    color: greenyellow;
+}
+
+/* This is the style for the lasagna web page */
+#title-las {
+    background-color: yellow;
+}
+
+#title-second-first-las {
+    background-color: blue;
+}
+
+#title-second-second-las {
+    background-color: orange;
+}
+
+h3 {
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* This is the style for the salmon web page */
+.image-of-our-salmon {
+    width: 800px;
+    height: 200px;
+}
