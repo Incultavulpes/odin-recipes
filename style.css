@@ -40,6 +40,25 @@ h3 {
 
 /* This is the style for the salmon web page */
 .image-of-our-salmon {
-    width: 800px;
+    width: 400px;
     height: 200px;
+}
+
+.title-salmon {
+    background-color: yellow;
+}
+
+h2 {
+    background-color: blue;
+}
+
+/* This is the style for chef John's roasted leg of lamb web page */
+.title-of-roasted-leg-of-lamb {
+    background-color: yellow;
+}
+
+
+/* This is the style for the french casserole web page */
+.title-for-our-french {
+    background-color: yellow;
 }
