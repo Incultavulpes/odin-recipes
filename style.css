@@ -4,20 +4,33 @@ body {
 }
 
 /* This is the style for the index.html web page */
-ul .home.child1 {
-    color: blue;
+.home-header {
+    text-align: center;
+    background-color: lightblue;
+    color: white;
 }
 
-ul .home.child2 {
-    color: green;
+.child1,
+.child2,
+.child3,
+.child4 {
+    display: inline-block;   
+    background-color: lightblue; 
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
 }
 
-ul .home.child3 {
-    color: burlywood;
+.child1:hover,
+.child2:hover,
+.child3:hover,
+.child4:hover {
+    background-color: honeydew;
 }
 
-ul .home.child4 {
-    color: greenyellow;
+.nav-container {
+    margin-top: 200px;
+    text-align: center;
 }
 
 /* This is the style for the lasagna web page */
